@@ -2,7 +2,7 @@ import Docs from "@/components/Docs";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Play2MagicWorld  | Play for Free Donation",
+  title: "Travel World  | Play for Free Donation",
   description: "This is built by bahadur",
   // other metadata
 };

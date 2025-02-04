@@ -15,7 +15,7 @@ const Feature = () => {
             headerInfo={{
               title: "GRAB EXTRA REWARDS",
               subtitle: "Core Visions of P2W",
-              description: `Sports World is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause..`,
+              description: `Travel World is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause..`,
             }}
           />
           {/* <!-- Section Title End --> */}

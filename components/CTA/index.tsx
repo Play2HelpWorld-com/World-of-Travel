@@ -32,7 +32,7 @@ const CTA = () => {
                 Join With Us Today & Help People
               </h2>
               <p>
-              Sports World is a free gaming platform that allows you to play
+              Travel World is a free gaming platform that allows you to play
                 games for free and donate to charity. Play games and help people
                 in need.
               </p>

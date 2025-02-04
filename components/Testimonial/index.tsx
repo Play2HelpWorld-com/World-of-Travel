@@ -22,7 +22,7 @@ const Testimonial = () => {
               headerInfo={{
                 title: `TESTIMONIALS`,
                 subtitle: `User’s Testimonials`,
-                description: `Sports World is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause.`,
+                description: `Travel World is a free gaming platform where users can play games to earn coupons. These coupons can be converted into real money, which users can either withdraw or donate to charitable organizations, blending entertainment with a meaningful cause.`,
               }}
             />
           </div>

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import BoosterCard from "@/components/Boosters";
 
 export const metadata: Metadata = {
-  title: "Rewards Page - Play2MagicWorld  | Play for Free Donation",
+  title: "Rewards Page - Travel World  | Play for Free Donation",
   description: "This is built by Bahadur",
   // other metadata
 };
