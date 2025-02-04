@@ -1,14 +1,14 @@
 // docsData.tsx
 export const docsData = {
   introduction: {
-    title: "Welcome to Sports World",
+    title: "Welcome to Travel World",
     content:
-      " Sports World is your ultimate destination for fun, rewards, and making a positive impact. Whether you're here to play games, earn rewards, or contribute to charitable causes, Sports World has something for everyone. Dive in and explore the exciting opportunities that await you!",
+      " Travel World is your ultimate destination for fun, rewards, and making a positive impact. Whether you're here to play games, earn rewards, or contribute to charitable causes, Travel World has something for everyone. Dive in and explore the exciting opportunities that await you!",
   },
-  "what-is-Sports World": {
-    title: "What Is Sports World?",
+  "what-is-Travel World": {
+    title: "What Is Travel World?",
     content:
-      "Sports World is a fab new place online where you can play fun, free games, via almost any device you choose. On top of that you can claim rewards for yourself and Rgrab other benefits too. On Play2WorkWorld.com it's all about the work and the $$$ you earn this for yourself. On Play2HelpWorld.com you can donate your rewards and $$$ to major charities. On Play2HealthWorld.com you grab rewards and also get help with your healthy lifestyle. On Play2LearnWorld.com you are earning and learning. And on Play2LiveWellWorld.com grab your rewards while improving your lived environment. The more you play the more rewards you earn - it's super simple, fun and always free!",
+      "Travel World is a fab new place online where you can play fun, free games, via almost any device you choose. On top of that you can claim rewards for yourself and Rgrab other benefits too. On Play2WorkWorld.com it's all about the work and the $$$ you earn this for yourself. On Play2HelpWorld.com you can donate your rewards and $$$ to major charities. On Play2HealthWorld.com you grab rewards and also get help with your healthy lifestyle. On Play2LearnWorld.com you are earning and learning. And on Play2LiveWellWorld.com grab your rewards while improving your lived environment. The more you play the more rewards you earn - it's super simple, fun and always free!",
   },
   "how-rewards-work": {
     title: "How Do Rewards Work?",
